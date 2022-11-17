@@ -1,9 +1,10 @@
-<img align="center" alt="Coding" width="800" src="https://as2.ftcdn.net/v2/jpg/03/96/09/41/1000_F_396094113_QLRzhEcK1AttavzaOhLtzOtJcPEdLOmb.jpg">
+<img align="center" alt="Coding" src="https://media-exp1.licdn.com/dms/image/D5616AQFp_IVZDyPXXg/profile-displaybackgroundimage-shrink_350_1400/0/1666627117847?e=1674086400&v=beta&t=NpTu3TEcEJBbvzS3jICr7jAVd01xUt77bVud0BaQm-0">
 <h1 align="center">Hi 👋, I'm Tatiana</h1>
 <h3 align="center">A passionate QA Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiananaumova5&label=Profile%20views&color=0e75b6&style=flat" alt="tatiananaumova5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatiananaumova5" alt="tatiananaumova5" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/96/09/41/1000_F_396094113_QLRzhEcK1AttavzaOhLtzOtJcPEdLOmb.jpg">
 
 - 🌱 I’m currently learning **React**
 
