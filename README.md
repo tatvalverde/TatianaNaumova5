@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **and practicing TypeScript**
 
-- 📫 How to reach me **tatiananaumova5gmail.com**
+- 📫 How to reach me [gmail](tatiananaumova5@gmail.com), [LinkedIn](https://www.linkedin.com/in/tatiana-naumova-809735234/)
 <p align="left">
 </p>
 
