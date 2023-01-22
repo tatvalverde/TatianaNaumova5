@@ -1,4 +1,4 @@
-<img align="center" alt="" s<img align="center"  src="Tatiana/personal/documents/githab/qa” alt”” >
+<img align="center" alt="" s<img align="center"  src="">
 <h1 align="center">Hi 👋, I'm Tatiana</h1>
 <h3 align="center">A passionate QA Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatiananaumova5&label=Profile%20views&color=0e75b6&style=flat" alt="tatiananaumova5" /> </p>
